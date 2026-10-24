@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ocarina 👋 
 
-<!--
-**Ocarina001/Ocarina001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **AI Product Manager | 人工智能专业 | 用 Codex 和 AI 工具重塑产品工作流**
 
-Here are some ideas to get you started:
+我是北京语言大学人工智能专业的大三学生。我热衷于探索 AI 技术如何落地为真实的商业产品。我不仅关注产品的底层逻辑与需求定义，也热衷于通过 AI 工具（如 Codex）提升产研效率。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 我的核心能力
+- **产品设计**：独立完成从 0 到 1 的 PRD 撰写、产品架构规划、用户调研与竞品分析。
+- **AI 工具流**：熟练使用 **Codex** 辅助需求拆解与文档输出；通过 Obsidian 搭建本地 AI 个人知识库，实现工作流提效。
+- **技术理解力**：熟悉机器学习与 NLP 基本原理，能与研发团队高效对齐技术方案。
+- **全球化视野**：英语专四良好 / 雅思 6.5，无障碍阅读海外 AI 前沿论文与产品资料。
+
+### 💻 核心项目
+
+#### 1. [EyeKnow - 眼动感知的算法学习认知负荷评估平台](此处替换为你EyeKnow仓库的链接)
+- **角色**：产品负责人
+- **简介**：针对算法学习中的“认知黑箱”问题，主导设计基于普通摄像头的 AI 认知负荷实时评估平台。
+- **成果**：独立撰写完整 PRD 与四层产品架构设计；统筹研发落地，项目获评**北京市级大创项目**及**中国大学生计算机设计大赛北京市二等奖**。
+
+#### 2. [Lang-SC 汉语离合词智能识别与检索系统](https://github.com/Ocarina001/chinese_separable_word_recognition_langsc)
+- **角色**：独立完成
+- **简介**：基于 Lang-SC 框架设计并实现的 NLP 工具，包含四大业务模块，实现离合词的自动化识别与频率统计。
+- **技术栈**：Python / NLP / 数据分析
+
+---
+
+📫 **如何联系我**
+- 邮箱：1919595288@qq.com
+- 随时欢迎关于 AI 产品、大模型应用的交流与探讨！
