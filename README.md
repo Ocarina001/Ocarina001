@@ -15,7 +15,7 @@
 
 ### 💻 Key Projects
 
-#### 1. EyeKnow - Eye-tracking Cognitive Load Assessment Platform
+#### 1. [EyeKnow - Eye-tracking Cognitive Load Assessment Platform](https://github.com/Ocarina001/EyeKnow-Product)
 - **Role**: Product Lead
 - **Description**: Designed an AI cognitive load assessment platform based on standard webcams to solve the "cognitive black box" in algorithm learning.
 - **Achievement**: Independently wrote the complete PRD and 4-layer architecture design. Led the development and successfully won the **Beijing Municipal Innovation Project** and the **2nd Prize in the Beijing Division of the Chinese Collegiate Computing Competition**.
