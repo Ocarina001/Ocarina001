@@ -1,4 +1,4 @@
-# Ocarina (Yue Jingyi)
+# Yue Jingyi
 
 > AI Product Management | Artificial Intelligence | AI Workflow Automation
 
