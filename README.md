@@ -1,29 +1,26 @@
-# Hi, I'm Ocarina 👋 
+# Ocarina (Yue Jingyi)
 
-> **AI Product Manager | 人工智能专业 | 用 Codex 和 AI 工具重塑产品工作流**
+> AI Product Management | Artificial Intelligence | AI Workflow Automation
 
-我是北京语言大学人工智能专业的大三学生。我热衷于探索 AI 技术如何落地为真实的商业产品。我不仅关注产品的底层逻辑与需求定义，也热衷于通过 AI 工具（如 Codex）提升产研效率。
+### 👤 Profile
+- **Education**: Beijing Language and Culture University | B.Eng. in Artificial Intelligence (Junior)
+- **Focus**: AI Product Management, User Research, Product Architecture Design
+- **Contact**: 1919595288@qq.com
 
-### 🚀 我的核心能力
-- **产品设计**：独立完成从 0 到 1 的 PRD 撰写、产品架构规划、用户调研与竞品分析。
-- **AI 工具流**：熟练使用 **Codex** 辅助需求拆解与文档输出；通过 Obsidian 搭建本地 AI 个人知识库，实现工作流提效。
-- **技术理解力**：熟悉机器学习与 NLP 基本原理，能与研发团队高效对齐技术方案。
-- **全球化视野**：英语六级552分 / 雅思 6.5，无障碍阅读海外 AI 前沿论文与产品资料。
+### 🛠 Core Competencies
+- **Product Design**: Experience in 0-to-1 PRD writing, product architecture planning, and user research.
+- **AI Workflow**: Proficient in using **Codex** for requirement decomposition and documentation; building local knowledge bases with Obsidian for efficiency.
+- **Technical Foundation**: Familiar with Machine Learning and NLP principles; capable of aligning technical solutions efficiently with R&D teams.
+- **Language**: CET-6 (552) / IELTS 6.5; capable of reading overseas AI papers and product documentation.
 
-### 💻 核心项目
+### 💻 Key Projects
 
-#### 1. [EyeKnow - 眼动感知的算法学习认知负荷评估平台](此处替换为你EyeKnow仓库的链接)
-- **角色**：产品负责人
-- **简介**：针对算法学习中的“认知黑箱”问题，主导设计基于普通摄像头的 AI 认知负荷实时评估平台。
-- **成果**：独立撰写完整 PRD 与四层产品架构设计；统筹研发落地，项目获评**北京市级大创项目**及**中国大学生计算机设计大赛北京市二等奖**。
+#### 1. EyeKnow - Eye-tracking Cognitive Load Assessment Platform
+- **Role**: Product Lead
+- **Description**: Designed an AI cognitive load assessment platform based on standard webcams to solve the "cognitive black box" in algorithm learning.
+- **Achievement**: Independently wrote the complete PRD and 4-layer architecture design. Led the development and successfully won the **Beijing Municipal Innovation Project** and the **2nd Prize in the Beijing Division of the Chinese Collegiate Computing Competition**.
 
-#### 2. [Lang-SC 汉语离合词智能识别与检索系统](https://github.com/Ocarina001/chinese_separable_word_recognition_langsc)
-- **角色**：独立完成
-- **简介**：基于 Lang-SC 框架设计并实现的 NLP 工具，包含四大业务模块，实现离合词的自动化识别与频率统计。
-- **技术栈**：Python / NLP / 数据分析
-
----
-
-📫 **如何联系我**
-- 邮箱：1919595288@qq.com
-- 随时欢迎关于 AI 产品、大模型应用的交流与探讨！
+#### 2. [Lang-SC Chinese Separable Word Recognition System](https://github.com/Ocarina001/chinese_separable_word_recognition_langsc)
+- **Role**: Independent Developer
+- **Description**: An NLP tool based on the Lang-SC framework, containing 4 core modules for automated recognition and frequency analysis of separable words.
+- **Tech Stack**: Python / NLP / Data Analysis
