@@ -15,12 +15,16 @@
 
 ### 💻 Key Projects
 
-#### 1. [EyeKnow - Eye-tracking Cognitive Load Assessment Platform](https://github.com/Ocarina001/EyeKnow-Product)
+#### 1. EyeKnow - Eye-tracking Cognitive Load Assessment Platform
 - **Role**: Product Lead
 - **Description**: Designed an AI cognitive load assessment platform based on standard webcams to solve the "cognitive black box" in algorithm learning.
 - **Achievement**: Independently wrote the complete PRD and 4-layer architecture design. Led the development and successfully won the **Beijing Municipal Innovation Project** and the **2nd Prize in the Beijing Division of the Chinese Collegiate Computing Competition**.
+- **Links**: 
+  - [📄 Product Portfolio & PRD (产品文档与设计)](https://github.com/Ocarina001/EyeKnow-Product)
+  - [💻 Source Code (项目主代码仓库)](https://github.com/CoWora/EyeTrace)
 
-#### 2. [Lang-SC Chinese Separable Word Recognition System](https://github.com/Ocarina001/chinese_separable_word_recognition_langsc)
+#### 2. Lang-SC Chinese Separable Word Recognition System
 - **Role**: Independent Developer
 - **Description**: An NLP tool based on the Lang-SC framework, containing 4 core modules for automated recognition and frequency analysis of separable words.
 - **Tech Stack**: Python / NLP / Data Analysis
+- **Link**: [💻 GitHub Repository](https://github.com/Ocarina001/chinese_separable_word_recognition_langsc)
